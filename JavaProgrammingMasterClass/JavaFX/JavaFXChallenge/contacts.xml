@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Jonathan</first_name>
+	<last_name>Gonzalez</last_name>
+	<phone_number>811-630-39-09</phone_number>
+	<notes>Is cool</notes>
+</contact>
+<contact>
+	<first_name>Eduardo</first_name>
+	<last_name>Lim</last_name>
+	<phone_number>34242</phone_number>
+	<notes>Eskereee xd</notes>
+</contact>
+</contacts>
